@@ -18,8 +18,8 @@ This is a Flutter application that calculates Body Mass Index (BMI) of a person 
 
 To run this application on your local machine, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/yourusername/flutter-bmi-calculator.git`
-2. Navigate to the project directory using `cd flutter-bmi-calculator`
+1. Clone this repository using `git clone https://github.com/VishalMauriya/BMI-Calculator-Flutter.git`
+2. Navigate to the project directory using `cd BMI-Calculator-Flutter`
 3. Run `flutter packages get` to install the dependencies.
 4. Run the app using `flutter run`
 
